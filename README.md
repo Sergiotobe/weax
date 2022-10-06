@@ -1,2 +1,2 @@
-# weax
+# Weax
 Test project from Appgyver
